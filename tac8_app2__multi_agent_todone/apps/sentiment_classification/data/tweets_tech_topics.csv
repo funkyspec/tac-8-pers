@@ -1,0 +1,67 @@
+tweet,sentiment_class,user,sex,hour_of_day,total_comments,total_likes,total_impressions,tweet_length,verified_user,reply_to_verified,primary_topic,secondary_topic
+The book I'm reading is absolutely captivating! Can't put it down,positive,@bookworm_reader,female,22,4,67,1987,60,false,false,entertainment,personal_development
+My favorite band just announced a new tour! So excited 🎵,positive,@music_fan_2023,female,15,23,189,4567,54,false,false,entertainment,personal_development
+This new podcast episode is absolutely brilliant! Must listen,positive,@podcast_addict,male,21,8,73,2134,59,false,false,entertainment,personal_development
+The new superhero movie is absolutely incredible! Best one yet,positive,@movie_buff_critic,male,22,34,298,7654,61,true,false,entertainment,personal_development
+This documentary about ocean life is absolutely fascinating,positive,@documentary_fan,female,21,9,89,2543,55,false,false,entertainment,personal_development
+The concert last night was absolutely phenomenal! Worth every penny,positive,@live_music_lover,male,23,21,176,4567,64,false,false,entertainment,personal_development
+My phone battery died right when I needed GPS directions,negative,@tech_dependent_user,male,12,7,33,1543,54,false,false,technology,communication
+Just finished reading an incredible mystery novel! Plot twists everywhere,positive,@mystery_book_fan,female,22,12,87,2543,68,false,false,entertainment,personal_development
+My neighbor's music is way too loud again tonight,negative,@quiet_neighborhood,male,23,6,27,987,47,false,false,entertainment,community_social
+The movie theater's sound system was broken during the film,negative,@cinema_experience,male,21,9,38,1567,58,false,false,entertainment,food_drinks
+The internet connection keeps dropping during video calls,negative,@remote_meeting_host,male,9,13,47,1987,54,false,false,technology,communication
+My laptop crashed right before saving my important document,negative,@tech_mishap_victim,male,22,9,41,1567,59,false,false,technology,personal_development
+The community theater production was absolutely outstanding tonight,positive,@local_theater_fan,female,20,16,134,4321,64,false,false,entertainment,food_drinks
+My favorite author just released a new book! Reading excitement 📚,positive,@avid_reader_fan,female,21,13,98,3456,62,false,false,entertainment,personal_development
+The automated phone system kept me on hold forever,negative,@phone_system_hater,male,11,7,32,1345,49,false,false,technology,communication
+The local bookstore has such a cozy reading atmosphere,positive,@bookstore_wanderer,female,14,8,87,2543,52,false,false,entertainment,shopping_retail
+The streaming service removed my favorite show again,negative,@streaming_subscriber,male,21,12,43,1987,51,false,false,entertainment,technology
+My phone's battery life is getting worse every day,negative,@tech_frustration_user,male,15,6,27,876,48,false,false,technology,communication
+The movie theater's seats were uncomfortable throughout the film,negative,@cinema_comfort_critic,male,21,6,29,1345,61,false,false,entertainment,food_drinks
+The community theater auditions went better than expected today,positive,@aspiring_actor_hopeful,female,19,14,123,3456,60,false,false,entertainment,food_drinks
+The movie theater's projection quality was terrible tonight,negative,@film_quality_critic,male,21,9,41,1987,54,false,false,entertainment,food_drinks
+The grocery store's checkout system crashed during peak hours,negative,@peak_shopping_victim,male,17,12,45,1876,58,false,false,technology,shopping_retail
+The internet connection failed right before my presentation,negative,@virtual_meeting_host,male,9,13,51,2134,56,false,false,technology,work_business
+The automated phone system transferred me to wrong departments,negative,@phone_maze_navigator,male,14,10,39,1567,59,false,false,technology,arts_culture
+The streaming platform removed my show mid-season,negative,@binge_watching_interrupted,male,21,10,43,1876,49,false,false,entertainment,family_relationships
+The internet provider's scheduled maintenance lasted much longer,negative,@connectivity_dependent_worker,male,13,12,49,2134,61,false,false,technology,home_lifestyle
+The movie theater's sound system distorted dialogue throughout,negative,@audio_quality_critic,male,21,8,36,1567,58,false,false,entertainment,food_drinks
+This local bookstore's reading events create wonderful community,positive,@literary_community_member,female,20,12,98,2543,61,false,false,entertainment,community_social
+The internet connection drops every time it rains,negative,@weather_connectivity_victim,male,15,11,47,1567,46,false,false,technology,nature_environment
+The movie theater's concession prices have become absolutely ridiculous,negative,@cinema_value_critic,male,21,7,34,1234,63,false,false,entertainment,food_drinks
+The customer support promised callbacks that never happened,negative,@callback_promise_broken,male,14,12,48,2134,55,false,false,technology,shopping_retail
+This community theater production showcases amazing local talent,positive,@local_arts_supporter,female,20,15,145,3987,62,false,false,entertainment,community_social
+The movie streaming platform's search function is absolutely terrible,negative,@content_discovery_frustrated,male,21,8,36,1345,63,false,false,entertainment,technology
+The customer support ticket system lost my detailed complaint,negative,@support_system_failure_victim,male,13,10,43,2134,58,false,false,technology,shopping_retail
+The movie theater's seating comfort has declined significantly,negative,@cinema_comfort_standards_critic,male,19,6,30,987,58,false,false,entertainment,food_drinks
+This community theater audition process was fair and encouraging,positive,@theater_audition_participant,female,20,14,134,2876,60,false,false,entertainment,food_drinks
+The grocery store's checkout technology malfunctions constantly,negative,@checkout_technology_victim,male,15,9,42,1567,56,false,false,technology,shopping_retail
+This local bookstore's author events create wonderful literary community,positive,@literary_community_builder,female,20,12,123,3987,63,false,false,entertainment,community_social
+The movie streaming service's recommendation algorithm is completely broken,negative,@streaming_algorithm_frustrated,male,21,8,37,1234,66,false,false,entertainment,technology
+The customer support phone system disconnected after long wait,negative,@phone_system_disconnection_victim,male,13,11,47,2134,58,false,false,technology,shopping_retail
+The internet provider's installation appointment was rescheduled repeatedly,negative,@installation_scheduling_victim,male,14,12,49,1567,66,false,false,technology,food_drinks
+This community theater production brings neighbors together through arts,positive,@community_arts_connector,female,20,16,167,4321,62,false,false,entertainment,community_social
+The internet connection drops during every video conference call,negative,@video_conference_connectivity_victim,male,9,13,51,1567,56,false,false,technology,education
+The movie theater's concession quality doesn't justify premium pricing,negative,@concession_value_critic,male,20,7,33,987,59,false,false,entertainment,food_drinks
+This volunteer environmental restoration project creates lasting ecosystem impact,positive,@ecosystem_restoration_volunteer,female,10,17,167,3987,68,false,false,technology,nature_environment
+The internet provider's data usage monitoring system provides inaccurate readings,negative,@data_monitoring_inaccuracy_victim,male,14,11,47,1567,67,false,false,technology,entertainment
+This local bookstore's reading series introduces amazing contemporary authors,positive,@contemporary_author_introducer,female,21,13,134,2876,66,false,false,entertainment,shopping_retail
+The movie streaming platform's content removal notifications are inadequate,negative,@content_removal_notification_critic,male,22,9,42,1567,64,false,false,entertainment,pets_animals
+My daughter's theater audition callback was such exciting news! 🎭,positive,@theater_callback_parent,female,16,19,178,4567,61,false,false,entertainment,food_drinks
+The internet provider's billing system contains frequent errors,negative,@billing_accuracy_victim,male,13,11,46,2134,55,false,false,technology,personal_development
+This photography course develops artistic vision beyond technique,positive,@artistic_vision_developer,female,19,12,123,4321,58,false,false,technology,arts_culture
+This local bookstore's children's reading program is wonderful,positive,@children_reading_advocate,female,11,15,156,4567,58,false,false,entertainment,family_relationships
+This volunteer environmental monitoring program protects local ecosystems,positive,@ecosystem_monitoring_volunteer,female,8,17,178,3987,65,false,false,technology,nature_environment
+This community theater's costume design is absolutely stunning,positive,@costume_design_admirer,female,20,13,134,3456,56,false,false,entertainment,food_drinks
+The internet connection's upload speed is significantly slower than advertised,negative,@upload_speed_disappointed,male,14,12,48,2134,64,false,false,technology,personal_development
+The internet provider's service interruptions occur during peak usage,negative,@peak_usage_interruption_victim,male,9,11,47,2134,61,false,false,technology,shopping_retail
+This local bookstore's author reading series enriches community culture,positive,@cultural_enrichment_advocate,female,21,12,134,2876,62,false,false,entertainment,community_social
+This community theater's accessibility accommodations are thoughtfully implemented,positive,@accessibility_accommodation_appreciator,female,20,14,145,4567,68,false,false,entertainment,food_drinks
+The internet connection's latency issues affect video calls significantly,negative,@latency_issue_victim,male,9,12,48,2134,55,false,false,technology,social_issues
+This volunteer environmental restoration project shows measurable ecosystem improvement,positive,@measurable_improvement_volunteer,female,10,18,189,3987,71,false,false,technology,nature_environment
+The grocery store's checkout system crashes during every weekend rush,negative,@weekend_crash_victim,male,16,7,34,1234,57,false,false,technology,shopping_retail
+This local bookstore's community reading groups foster intellectual discussion,positive,@intellectual_discussion_facilitator,female,21,13,145,4321,63,false,false,entertainment,community_social
+The internet connection's bandwidth throttling during peak hours is unacceptable,negative,@bandwidth_throttling_victim,male,9,11,47,2134,63,false,false,entertainment,technology
+This community theater's volunteer program builds skills and friendships,positive,@skill_friendship_builder,female,20,15,156,4321,58,false,false,entertainment,community_social
+The internet provider's data usage calculations don't match third-party monitoring,negative,@data_calculation_discrepancy_victim,male,9,11,46,2134,65,false,false,technology,arts_culture
+This local bookstore's book club discussions enrich everyone's literary understanding,positive,@literary_understanding_enricher,female,20,14,145,2876,68,false,false,entertainment,shopping_retail
