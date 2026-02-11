@@ -1,0 +1,19 @@
+[project]
+name = "topic-classification"
+version = "0.1.0"
+description = "Primary topic classification application with Jupyter notebook support"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter",
+    "ipykernel",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "matplotlib",
+    "seaborn",
+    "transformers",
+    "torch",
+    "datasets",
+    "nltk",
+    "wordcloud",
+]
