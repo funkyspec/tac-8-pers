@@ -1,0 +1,29 @@
+tweet,sentiment_class,user,sex,hour_of_day,total_comments,total_likes,total_impressions,tweet_length,verified_user,reply_to_verified,primary_topic,secondary_topic
+🎉🎊🥳 BEST DAY EVER!!! 🌟✨💫,positive,@emoji_enthusiast,female,14,45,234,5678,28,false,false,entertainment,personal_development
+This is <horrible> & [terrible] @ handling special characters!!! #fail,negative,@special_chars_user,male,16,8,23,987,65,false,false,technology,communication
+こんにちは！今日はとても良い天気ですね☀️ Beautiful weather today!,positive,@bilingual_user_jp,female,9,12,89,2345,47,false,false,nature_environment,personal_development
+Café ☕ naïve résumé jalapeño — these âccénts are éverywhére!,positive,@accent_marks_lover,male,11,7,56,1456,59,false,false,food_drinks,arts_culture
+😂🤣😭💀 I can't even... this is TOO FUNNY!!! 😂😂😂,positive,@laugh_emoji_spam,female,20,67,456,8901,47,false,true,entertainment,community_social
+100% CAPS LOCK IS BASICALLY SHOUTING AND NOBODY LIKES IT!!!,negative,@caps_lock_user,male,22,15,34,1234,59,false,false,communication,personal_development
+¿Por qué no hay más opciones vegetarianas? ¡Esto es frustrante! 🌱,negative,@spanish_vegan,female,13,9,28,1543,61,false,false,food_drinks,health_wellness
+Amazing product... NOT! 😒 #sarcasm #disappointed #refund,negative,@sarcasm_master,male,18,23,89,2987,52,false,false,shopping_retail,technology
+Привет! Московская погода сегодня прекрасна! 🇷🇺❄️,positive,@russian_weather_fan,female,10,6,45,1789,45,false,false,nature_environment,personal_development
+Mixed feelings: great food 🍕 terrible service 😤 confused emotions,neutral,@mixed_emotions_user,male,19,14,67,2345,64,false,false,food_drinks,shopping_retail
+@@@@@@@@ ####### $$$$$$$ %%%%%%% Special chars only!!!,negative,@symbol_spam_user,female,15,3,12,456,51,false,false,technology,communication
+مرحبا! الطعام هنا رائع جدا! 🍽️ The food here is amazing!,positive,@arabic_foodie,male,20,11,78,2456,56,false,false,food_drinks,family_relationships
+Line breaks
+are weird
+but this tweet
+is still positive! 🌈,positive,@line_break_user,female,12,8,34,1234,60,false,false,communication,personal_development
+🔥🔥🔥 LIT FAM FR FR NO CAP BUSSIN SHEESH 💯💯💯,positive,@gen_z_slang,male,21,89,567,9876,49,false,true,communication,community_social
+Super long wooooooord: Pneumonoultramicroscopicsilicovolcanoconiosis is amazing!,positive,@long_word_fan,female,14,5,23,987,76,false,false,education,science_research
+Tab→separated→values→and→special→whitespace→characters→everywhere,negative,@whitespace_chaos,male,11,4,18,765,63,false,false,technology,communication
+Çè śòñ ðəś čhåřåčţëřş űńįqűęś! Très spécial! 🎭,positive,@unicode_collector,female,16,7,45,1678,51,false,false,arts_culture,personal_development
+""""Excessive"""" '''quotes''' and `backticks` everywhere!!! Bad UX,negative,@quote_marks_user,male,13,9,31,1345,60,false,false,technology,communication
+Zero-width characters​​​​​ hidden​​​​ in​​​​ this​​​​ text,negative,@invisible_chars,female,17,2,9,543,48,false,false,technology,communication
+😀😃😄😁😆😅😂🤣😊😇🙂🙃😉😌😍🥰😘😗😙😚 Emoji overload!!!,positive,@emoji_hoarder,male,19,34,234,5678,59,false,true,entertainment,personal_development
+C:\Users\file.txt /etc/passwd ~/home 'DROP TABLE users;' <script>,negative,@injection_tester,male,15,6,21,876,61,false,false,technology,security
+Numbers: 123,456.78 $9,999 €1.234,56 ¥100,000 £50.00 prices vary!,positive,@number_format_fan,female,14,8,45,1765,64,false,false,shopping_retail,finance_economy
+हिंदी में लिखा गया! This is written in Hindi! 🇮🇳 Great experience,positive,@hindi_multilingual,male,11,7,56,1987,59,false,false,language_education,personal_development
+&&& ||| >>> <<< === !== ++ -- ** // Code symbols are confusing,negative,@code_symbols_user,female,16,5,23,1234,58,false,false,technology,education
+🎵♪♫♬ Music symbols 𝄞𝄢 and math √∑∫∂ ∞ ≠ ≈ mixed together!,positive,@symbol_mixer,male,18,12,89,2876,65,false,false,arts_culture,education
